@@ -1,5 +1,5 @@
-# F??rstner Corner Detector
+# FÃ¶rstner Corner Detector
 
 ## Paper
-F??rstner, Wolfgang, and Eberhard GÃ¼lch. "A fast operator for detection and precise location of distinct points, corners and centres of circular features." Proc. ISPRS intercommission conference on fast processing of photogrammetric data. 1987.
+FÃ¶rstner, Wolfgang, and Eberhard G¨¹lch. "A fast operator for detection and precise location of distinct points, corners and centres of circular features." Proc. ISPRS intercommission conference on fast processing of photogrammetric data. 1987.
 
